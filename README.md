@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💻Languages
+# 💻Langages
 
 <img align="left" width="30px" style="padding-right:10px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px"  alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 <img align="left" width="30px" style="padding-right:10px"  alt="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 
  <img  align="left" width="30px" style="padding-right:10px"  alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+<img align="left" width="30px" style="padding-right:10px"  alt="FilleZilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+
+# 🔗Linkdin
+
+<a  href="https://www.linkedin.com/in/glenn-guillard-08204724a/">Linkdin</a>
