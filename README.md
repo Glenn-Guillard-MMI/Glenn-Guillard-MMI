@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**Glenn-Guillard-MMI/Glenn-Guillard-MMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 💻Langages
 
 <img align="left" width="30px" style="padding-right:10px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -34,6 +17,4 @@ Here are some ideas to get you started:
 
 <img align="left" width="30px" style="padding-right:10px"  alt="FilleZilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 
-# 🔗Linkdin
-
-<a  href="https://www.linkedin.com/in/glenn-guillard-08204724a/">Linkdin</a>
+<br/>
